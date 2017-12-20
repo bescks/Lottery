@@ -1,0 +1,18 @@
+Dec 20, 2017 11:33:09 AM Main main
+INFO: ----------------------------------
+Dec 20, 2017 11:33:09 AM Initial isReady
+INFO: MAC address : A4-5E-60-BF-27-29
+Dec 20, 2017 11:33:11 AM Initial isReady
+INFO: Read macsDatabase successfully!
+Dec 20, 2017 11:33:11 AM Initial isReady
+INFO: Check certificate successfully!
+Dec 20, 2017 11:40:46 AM Main main
+INFO: ----------------------------------
+Dec 20, 2017 11:40:46 AM Initial isReady
+INFO: MAC address : A4-5E-60-BF-27-29
+Dec 20, 2017 11:40:47 AM Initial isReady
+INFO: Read macsDatabase successfully!
+Dec 20, 2017 11:40:48 AM Initial isReady
+INFO: Check certificate successfully!
+Dec 20, 2017 11:40:48 AM Initial isReady
+INFO: Certificate is blocked!
